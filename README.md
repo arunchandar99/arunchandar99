@@ -84,6 +84,23 @@ Mastering Snowflake, dbt, modern data pipelines, and AI tools
 </table>
 
 
+## 📂 Repository Directory
+```
+de-       → Data Engineering & AI Projects
+ext-      → Tableau Extensions
+app-      → Web Applications
+pwr-      → Power Platform Solutions
+design-   → UI/UX Design Projects
+```
+👉 **GitHub Repositories** → [View All](https://github.com/arunchandar99?tab=repositories)
+
+**📊 Visualizations:** All Tableau dashboards live on [**Tableau Public**](https://public.tableau.com/app/profile/arun.chandar/vizzes)
+
+
+
+
+
+
 
 ## What I Build
 
