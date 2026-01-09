@@ -1,11 +1,10 @@
-<div align="center">
+<h1>Hi, I'm Arun 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0844,100:FF6B6B&height=150&section=header&text=Hi,%20I'm%20Arun%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&rotate=0&fontAlignY=55" />
+<img align="right" alt="Data Analytics" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3>BI Analyst | Aspiring Analytics Engineer</h3>
-<p><em>Building data pipelines, dashboards, and AI tools</em></p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<p><em>Building data pipelines, dashboards, and AI tools</em></p>
 
 <br>
 
@@ -14,11 +13,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunchandar99)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arun.chandar/vizzes)
 
-</div>
+<br clear="both">
 
 ---
-
-
 ## 🚀 Journey
 
 **2019-2020 | Continuous Improvement Specialist | SaiSuge Healthcare, India**  
