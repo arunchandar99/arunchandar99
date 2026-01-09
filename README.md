@@ -1,8 +1,23 @@
-# Hi, I'm Arun 👋
+<div align="center">
 
-**BI Analyst | Aspiring Analytics Engineer**
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0844,100:FF6B6B&height=150&section=header&text=Hi,%20I'm%20Arun%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&rotate=0&fontAlignY=55" />
 
-Building data pipelines, dashboards, and AI tools.
+<h3>BI Analyst | Aspiring Analytics Engineer</h3>
+<p><em>Building data pipelines, dashboards, and AI tools</em></p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunchandarac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunchandarac)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunchandar99)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arun.chandar/vizzes)
+
+</div>
+
+---
+
 
 ## 🚀 Journey
 
@@ -95,3 +110,20 @@ design-   → UI/UX Design Projects
 **GitHub Repositories** → [View All](https://github.com/arunchandar99?tab=repositories)
 
 **Visualizations:** All Tableau dashboards live on [**Tableau Public**](https://public.tableau.com/app/profile/arun.chandar/vizzes)
+
+---
+
+<div align="left">
+
+## 👋 Thanks for Stopping By!
+
+If you're interested in analytics engineering, modern data pipelines, or AI-powered BI tools, let's connect!
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunchandarac@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunchandarac)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arunchandar99)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/arun.chandar/vizzes)
+
+⭐ Feel free to explore my repositories and reach out!
+
+</div>
