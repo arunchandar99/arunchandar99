@@ -103,6 +103,7 @@ ext-      → Tableau Extensions
 app-      → Web Applications
 pwr-      → Power Platform Solutions
 design-   → UI/UX Design Projects
+docs-     → Documentation & Standards
 ```
 **GitHub Repositories** → [View All](https://github.com/arunchandar99?tab=repositories)
 
